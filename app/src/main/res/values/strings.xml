@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">popupmenue</string>
+    <string name="popup">Click me!!</string>
+    <string name="sms">sms</string>
+    <string name="email">email</string>
+    <string name="share">share</string>
+    <string name="subject">Subject</string>
+    <string name="to">Email</string>
+    <string name="activityerr">error</string>
+    <string name="message">Message</string>
+
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_msg">Enter Message</string>
+    <string name="send">SEND</string>
+</resources>
