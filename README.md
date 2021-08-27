@@ -2,7 +2,7 @@
 popup menu with intent such as share sent email sent sms
 
 <br><br>
-Follow following instructions to run the code on your device locally
+Follow below instructions to run the code on your device locally
 [comment]: <> (The following part is takenfrom udacity they have amazing courses regarding android do chek out!!)
 ### Fixing the build.gradle file
 Since Android is always releasing new sums of SDK packages, whenever you open or import an old project in Android Studio, you may see an alert saying that the plugin is too old:
